@@ -63,5 +63,5 @@ Used for Analysis (SARS-CoV-2-Biggest-Economies-Analysis.ipynb)
 - cmr: crude mortality rate (http://www.gbe-bund.de/gbe10/abrechnung.prc_abr_test_logon?p_uid=gast&p_aid=0&p_knoten=FID&p_sprache=E&p_suchstring=10099::Mortality%20figures)
 
 
-4. How to interact with the data
+# 4. How to interact with the data
 There is a final-dataset for analysis 
