@@ -1,6 +1,8 @@
 # SARS-CoV-2-Biggest-Economies-Analysis
 How does the world's biggest economies cope with COVID-19 until April 2020
 
+## Medium Story: https://medium.com/@rob.friebe/how-do-the-worlds-biggest-economies-cope-with-the-sars-cov-2-pandemic-76f3956332d4
+
 ## 1. Installations
 - Python 3, Anaconda3, Jupyter Notebook
 - libraries (already present) pandas, numpy, matplotlib.pyplot, seaborn, sklearn
