@@ -64,4 +64,12 @@ Used for Analysis (SARS-CoV-2-Biggest-Economies-Analysis.ipynb)
 
 
 # 4. How to interact with the data
-There is a final-dataset for analysis 
+- There is a final-dataset for analysis that can be use for own analyses
+- There is also an option to use the jupyter notebook and download the lates JHU-COVID19 date from the repositry, wrangle the date and create an up-do-date dataset for analyses
+
+# 5. Authors and others
+- Analysis made by Robert Friebe, May 2020
+Data-Ressources as follows:
+- World Bank Regions: https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups
+- Population by Country (Up-to-dateness: 2018): https://github.com/datasets/population/tree/master/data
+- JHU-SARS-CoV-2 data: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series
